@@ -1,0 +1,25 @@
+# English–Falam Chin Dictionary
+
+A searchable and browsable English-to-Falam Chin dictionary web app, created from a printed English–Falam dictionary and digitized for convenient use on laptops, desktops, tablets, and mobile devices.
+
+## About
+
+This web app allows users to search for an English word and view its Falam translation and definition. It preserves the original dictionary's formatting and structure as much as possible, including **bold headwords**, *italicized examples*, pronunciation, parts of speech, and other dictionary information.
+
+The app is designed to be embedded in **[Christian Robawm](https://christianrobawm.blogspot.com)** for easy access and browsing. When the GitHub Pages site is accessed directly, it redirects users to the Christian Robawm website.
+
+## Usage
+
+Open `index.html` in any modern web browser, including Chrome, Firefox, Microsoft Edge, or Safari. No installation is required.
+
+* Type an English word in the search box to find an entry.
+* Click a letter to browse the dictionary alphabetically.
+* Select a word to view its complete dictionary entry.
+
+## Credit
+
+Dictionary content has been adapted from the original printed *English to Falam Dictionary*.
+
+All rights to the original dictionary content remain with the original author(s) and publisher. This web app is intended to make the dictionary easier to access, search, and browse in digital form.
+	
+
