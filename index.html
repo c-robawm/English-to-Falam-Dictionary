@@ -282,6 +282,28 @@
     line-height:1.5;
   }
 
+  /* ---------- Footer ---------- */
+  footer.bottom{
+    flex:0 0 auto;
+    background:var(--navy-deep);
+    border-top:2px solid var(--gold);
+    padding:8px 16px;
+    text-align:center;
+  }
+  footer.bottom a{
+    display:inline-block;
+    font-family:"Helvetica Neue",Arial,sans-serif;
+    font-size:.85rem;
+    font-weight:600;
+    letter-spacing:.04em;
+    color:var(--gold-soft);
+    text-decoration:none;
+    padding:6px 16px;
+    border:1px solid var(--gold);
+    border-radius:6px;
+  }
+  footer.bottom a:hover{ background:var(--gold); color:var(--white); }
+
   @media (max-width: 760px){
     main{ flex-direction:column; }
     .list-pane{
@@ -324,6 +346,10 @@
       </div>
     </div>
   </main>
+
+  <footer class="bottom">
+    <a href="https://chin-dictionary.com/english-falam-dictionary/" target="_blank" rel="noopener">More Info ↗</a>
+  </footer>
 </div>
 
 <script>
